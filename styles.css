@@ -55,7 +55,6 @@ a:hover {
 .nav a:hover {
   color: white
 }
-
 header {
   text-align: center;
   background: url('images/gradient_gb.jpg') no-repeat top center ;
@@ -87,12 +86,12 @@ header .profile-image:hover {
 }
 
 .center {
-  background-color: white;
-  color: black;
+  color: white;
+  font-size: 60px;
   padding: 10px;
   border-radius: 5px;
   display: table;
-  margin: 150px auto;
+  margin: 200px auto;
 }
 
 .city {
@@ -118,7 +117,7 @@ header .profile-image:hover {
 }
 .post {
   margin: 30px;
-  padding: 20px 80px 80px;
+  padding: 20px 40px 40px;
   max-width: 900px;
   text-align: left;
   background: #fff;
