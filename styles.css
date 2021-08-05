@@ -31,6 +31,7 @@ a:hover {
   position: fixed;
   text-align: center;
 }
+
 .nav {
   display: flex;
   justify-content: space-around;
@@ -82,9 +83,18 @@ header .profile-image:hover {
   padding: 10px;
   border-radius: 5px;
   display: table;
-  position: center;
   margin: 10px auto;
 }
+
+.center {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 150px auto;
+}
+
 .city {
   background-color: tomato;
   color: white;
