@@ -193,6 +193,12 @@ a.social:hover {
   clear: both;
 }
 
+ul li {
+  line-height:130%;
+  padding: 5px;
+}
+
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
